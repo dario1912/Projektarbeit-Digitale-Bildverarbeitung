@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+numpy== 1.23.5
+train_test_split==not installed
+math==unknown
+matplotlib.pyplot==unknown
+seaborn==0.12.2
+confusion_matrix==not installed
