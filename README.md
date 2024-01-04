@@ -1,3 +1,3 @@
 # Projektarbeit-Digitale-Bildverarbeitung
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dario1912/Projektarbeit-Digitale-Bildverarbeitung/main?labpath=Fertiger_Stand_netz.ipynb)
